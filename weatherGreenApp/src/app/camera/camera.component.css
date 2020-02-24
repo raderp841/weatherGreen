@@ -1,0 +1,32 @@
+#c2 {
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#c1 {
+  display: none;
+}
+
+#video {
+  display: none;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+.weather-img {
+  background-image: url(https://dig.abclocal.go.com/wabc/weather/web7day.jpg);
+}
+
+.dino-img {
+  background-image: url(https://media.giphy.com/media/bSI9HmWdaKxQbaPdPI/giphy.gif);
+}
+
+.unicorn-img {
+  background-image: url(https://media3.giphy.com/media/xT0BKu22errUb4NC6s/giphy.gif?cid=790b7611b9842308d55e22f56c42d1a03754c62364559a2f&rid=giphy.gif);
+}
